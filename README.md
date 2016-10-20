@@ -11,7 +11,7 @@ See repository on [Docker Hub](https://hub.docker.com/r/yannickvh/mariadb/)
 
 # How to use this image
 
-Same way that the [official MariaDB docker image](https://hub.docker.com/_/mariadb/) but replace `mariadb ` image by `yannickvh/mariadb`
+Same use as the [official MariaDB docker image](https://hub.docker.com/_/mariadb/) but replace `mariadb ` image by `yannickvh/mariadb`
 
 # User Feedback
 
