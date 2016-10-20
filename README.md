@@ -2,7 +2,7 @@
 
 Custom build of MariaDB based on the official build for docker.
 
-Check this image on the [Docker Hub](https://hub.docker.com/r/yannickvh/mariadb/)
+Please visit the [Docker Hub](https://hub.docker.com/r/yannickvh/mariadb/)
 
 # Supported tags and respective `Dockerfile` links
 
