@@ -1,4 +1,4 @@
-FROM mariadb:10.0
+FROM mariadb:5.5
 MAINTAINER Yannick Vanhaeren
 
 RUN set -ex \
